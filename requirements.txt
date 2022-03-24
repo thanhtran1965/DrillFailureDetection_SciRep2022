@@ -1,0 +1,10 @@
+keras
+librosa
+matplotlib
+numpy
+pandas
+scipy
+sklearn
+soundfile
+tensorflow
+tqdm

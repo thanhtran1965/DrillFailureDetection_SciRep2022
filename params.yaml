@@ -1,0 +1,32 @@
+dataset:
+    dataset_path: "data" # <path_to_data>
+extract:
+    audio_len_s: 1 # second
+    eps: 2.220446049250313e-16
+    fmax: 48000
+    fmin: 0
+    fs: 96000 # sampling rate
+    hop_length_samples: 882
+    log: true
+    mono: true
+    n_fft: 2048
+    n_mels: 96
+    normalize_audio: true
+    patch_hop: 50
+    patch_len: 100
+    spectrogram_type: power
+    win_length_samples: 1764
+learn:
+    batch_size: 4 
+    lr: 0.001
+    n_classes: 3
+    n_epochs: 100
+    optim: Adam
+    patience: 5
+    val_split: 0.3
+predictive:
+    aggregate: gmean
+suffix:
+    in: _mel
+    out: _label
+  
