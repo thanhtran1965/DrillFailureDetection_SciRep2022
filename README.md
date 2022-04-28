@@ -10,7 +10,8 @@ pip3 install -r requirements.txt
 - MATLAB 2020b.
 
 ## Dataset:
-Valmet AB dataset can find using this link: https://zenodo.org/record/6478574#.Ymj7ONpByUk
+Valmet dataset can find using this link: https://zenodo.org/record/6478574#.Ymj7ONpByUk
+UrbanSound8K dataset can find using this link: https://urbansounddataset.weebly.com/urbansound8k.html
 - Original features: [Download](https://khoavanhoceduvn-my.sharepoint.com/:u:/g/personal/2606_elibrary_su/EbcwA18Ou9FNmJHd0ACz-MoBHgCpF-U-R68wu3tOwcmW1g?e=pkwZOv)
 
 - Augmented features: [Download](https://khoavanhoceduvn-my.sharepoint.com/:u:/g/personal/2606_elibrary_su/EWrW7FGcZqZEmQEoJh2UUDABaVQWCIzFF3tbxOdthGyMrA?e=4roj4e)
