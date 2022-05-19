@@ -22,6 +22,10 @@ UrbanSound8K dataset can find using this link: https://urbansounddataset.weebly.
 ## Usage:
 - First, clone the repository locally:
 ```
+git clone https://github.com/thanhtran1965/DrillFailureDetection_SciRep2022.git
+
+or
+
 git clone https://github.com/nhattruongpham/DFSD.git
 ```
 
