@@ -17,7 +17,7 @@ UrbanSound8K dataset can find using this link: https://urbansounddataset.weebly.
 
 - Augmented features: [Download](https://khoavanhoceduvn-my.sharepoint.com/:u:/g/personal/2606_elibrary_su/EWrW7FGcZqZEmQEoJh2UUDABaVQWCIzFF3tbxOdthGyMrA?e=4roj4e)
 
-### Note: All above datasets need to download and extract to the [data/features](https://github.com/nhattruongpham/DSFD/tree/main/data/features) folder. The raw sound dataset is private, so we cannot provide the sounds according to the company's privacy policy. To support the reproduction of the experimental results, please download the above extracted/processed features that we have converted from raw sounds.
+### Note: All above datasets need to download and extract to the [data/features] folder. 
 
 ## Usage:
 - First, clone the repository locally:
