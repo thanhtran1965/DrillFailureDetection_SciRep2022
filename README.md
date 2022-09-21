@@ -81,7 +81,7 @@ git clone https://github.com/nhattruongpham/DFSD.git
 
 - Run ```ResultAnalysis.ipynb``` to show confusion matrix and classification report (if any).
 
-### Note: To reproduce the experiment and result for the original dataset, please change the dataset directory! 
+### Note: To reproduce the experiment and result for the original dataset, please change the dataset directory! You can also clone the same code from my co-author's Github https://github.com/nhattruongpham/DSFD
 
 ## Citation
 If you use this code or part of it, please cite the following paper:
