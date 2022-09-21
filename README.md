@@ -85,16 +85,18 @@ git clone https://github.com/nhattruongpham/DFSD.git
 
 ## Citation
 If you use this code or part of it, please cite the following paper:
-```
+
 ### Preprint version
+```
 @article{tran2021detecting,
   title={Detecting Drill Failure in the Small Short-sound Drill Dataset},
   author={Tran, Thanh and Pham, Nhat Truong and Lundgren, Jan},
   journal={arXiv preprint arXiv:2108.11089},
   year={2021}
 }
-
+```
 ### Published version
+```
 @article{tran2022deep,
   title={A deep learning approach for detecting drill bit failures from a small sound dataset},
   author={Tran, Thanh and Pham, Nhat Truong and Lundgren, Jan},
@@ -106,3 +108,4 @@ If you use this code or part of it, please cite the following paper:
   publisher={Nature Publishing Group}
 }
 ```
+
